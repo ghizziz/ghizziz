@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Luís Eduardo Ghizzi 
 
-💻 Jovem explorador fascinado em entender **o que acontece por trás das máquinas**, dos transistores ao raciocínio da inteligência artificial.  
+💻 Jovem explorador fascinado em entender **o que acontece por trás das máquinas**, dos transistores até a inteligência artificial.  
 🎯 Busco me tornar referência em **programação, cybersegurança e liderança**.  
 🔌 Movido pela curiosidade, investigo como os computadores pensam, como as redes se protegem e como a IA evolui.  
-📌 Minha missão é **dominar a tecnologia em profundidade, indo além da superfície**.  
+📌 Meu objetivo é **dominar a tecnologia em profundidade, indo além da superfície**.  
 
 ---
 
@@ -29,8 +29,6 @@
 ---
 
 ## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luíseduardoghizzi)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-site.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luíseduardoghizzi)   
 
 --- 
