@@ -3,7 +3,6 @@
 💻 Jovem explorador fascinado em entender **o que acontece por trás das máquinas**, dos transistores até a inteligência artificial.  
 🎯 Busco me tornar referência em **programação, cybersegurança e liderança**.  
 🔌 Movido pela curiosidade, investigo como os computadores pensam, como as redes se protegem e como a IA evolui.  
-📌 Meu objetivo é **dominar a tecnologia em profundidade, indo além da superfície**.  
 
 ---
 
@@ -13,8 +12,7 @@
 - 🌱 Aprendendo: **Java, Spring Boot, Cibersegurança e Inteligência Artificial**.
 - 🐧 Entusiasta do **Linux** e da cultura Open-Source.
 - ♟  Enxadrista nas horas vagas.
-- 🔍 Gamer🕹, amante dos esportes🥇 e meio eclético 🎼. 
-- 📌 Sempre em busca de desafios que superam meus limites.
+- 🕹 Gamer, amante dos esportes🥇 e meio eclético 🎼. 
 
 ---
 
